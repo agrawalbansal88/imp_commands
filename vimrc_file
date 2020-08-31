@@ -1,0 +1,9 @@
+set ts=4
+set et
+set sw=4
+let python_highlight_all = 1
+if has("syntax")
+    syntax on
+endif
+set hlsearch
+set nu
